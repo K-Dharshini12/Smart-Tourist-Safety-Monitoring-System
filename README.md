@@ -198,4 +198,4 @@ This project is developed for educational and academic purposes.
 
 ⭐ Support
 
-If you found this project helpful, please consider giving it a ⭐ on GitHub.Smart Tourist Safety Monitoring and Incident Reporting System<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/85060d5e-8326-40f9-ba81-40ad064dbd73" />
+If you found this project helpful, please consider giving it a ⭐ on GitHub.Smart Tourist Safety Monitoring and Incident Reporting System
